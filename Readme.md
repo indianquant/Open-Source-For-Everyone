@@ -1,3 +1,4 @@
+This repo consists of all the Open Source Internship progammes available out there. If you find something useful to share with, feel free to send a PR.
 ![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
 
 # SOC-Programs
